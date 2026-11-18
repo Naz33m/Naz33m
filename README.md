@@ -1,6 +1,6 @@
 ### Teaching pixels to look back 👁
 
-I'm Nazeem, a creative technologist in Al Ain, UAE. I build things where computer vision, AI and real-time 3D meet: cameras that recognise, characters that respond, worlds that react to the people in front of them.
+I'm Nazeem, a creative technologist . I build things where computer vision, AI and real-time 3D meet: cameras that recognise, characters that respond, worlds that react to the people in front of them.
 
 By day I build perception pipelines, LLM agents and dashboards that run on local NVIDIA GPUs. In between I make experiments in 3D, particles, shaders and simulated neurons.
 
